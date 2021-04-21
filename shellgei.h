@@ -1,6 +1,7 @@
-#ifndef _SHELLGEI_H
-	#define _SHELLGEI_H
+#ifndef _SHELL_H
+	#define _SHELL_H
 	#include<stdio.h>
 	#include<string.h>
-	int shell(char[], char*);
+	#include<stdlib.h>
+	int shellgei(char *, char *);
 #endif
